@@ -4,7 +4,6 @@
 	"description": "Removes all spaces from a string",
 	"license": "MIT",
 	"repository": "garv_nanwani/small",
-	"publishConfig": { "registry": "https://npm.pkg.github.com/" },
 	"main": "index.js",
 	"keywords": [
 		"garv",
